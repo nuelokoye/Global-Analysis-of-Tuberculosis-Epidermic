@@ -34,9 +34,9 @@ The main steps for this project are summarized below:
 ![Global Tuberculosis analysis](https://user-images.githubusercontent.com/110628103/232552599-735a7c5f-3e2f-4b5f-aa55-1ca31a159a17.png)
 
 
-Click [here](https://medium.com/p/9478a09bd8ae/edit) to read the full analytics report
+Click [here](https://medium.com/@okoyeemmanuelidahosa/global-analysis-of-tuberculosis-epidemic-using-python-9478a09bd8ae) to read the full analytics report
 
-- [Medium Article]
+- [Medium Article](https://medium.com/@okoyeemmanuelidahosa/global-analysis-of-tuberculosis-epidemic-using-python-9478a09bd8ae)
 
 - [Portfolio](https://okoyeemmanuel.carrd.co/#)
 
